@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,29 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# 🍏 Apple Website Clone (Frontend UI)
+
+This project is a simple UI clone of the Apple website built with React, Vite, and Tailwind CSS.  
+It’s meant for frontend learning only – no backend, no APIs – just the layout and styling to practice building modern responsive UIs.
+
+
+
+## ✨ What’s Inside
+
+- 🖥️ React + Vite for a fast development setup  
+- 🎨 Tailwind CSS for easy styling and responsiveness  
+- 📱 Looks good on mobile, tablet and desktop  
+- 🧩 Split into reusable components (navbar, hero, product sections, footer…)  
+- ⚡ Quick to load and easy to edit  
+
+
+
+## 🛠 Tech Used
+
+- [React](https://react.dev/)  
+- [Vite](https://vitejs.dev/)  
+- [Tailwind CSS](https://tailwindcss.com/)
+
+
+>>>>>>> 1a14ddbaa6767901ff23f03e3a6e8ff9350ce658
